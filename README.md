@@ -40,8 +40,7 @@ ask_me:    aiogram, FastAPI, Telegram Mini Apps, deploying on a budget VPS
 ### ✦ 統計 · stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=saikoxdd&show_icons=true&hide_border=true&count_private=true&bg_color=0b0a1a&title_color=c4b5fd&icon_color=ff4d6d&text_color=e4dcff" alt="GitHub stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikoxdd&layout=compact&hide_border=true&bg_color=0b0a1a&title_color=c4b5fd&text_color=e4dcff" alt="top languages">
+  <img src="https://raw.githubusercontent.com/saikoxdd/saikoxdd/output/snake.svg" alt="contribution snake" width="100%">
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=saikoxdd&hide_border=true&background=0B0A1A&ring=FF4D6D&fire=FF4D6D&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=E4DCFF&sideNums=E4DCFF&dates=8B7FB8&stroke=3B2F63" alt="streak">
