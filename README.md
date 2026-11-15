@@ -18,6 +18,10 @@ learning:  Go, distributed systems, Kubernetes
 ask_me:    aiogram, FastAPI, Telegram Mini Apps, deploying on a budget VPS
 ```
 
+<p>
+  <a href="https://t.me/saikokiro"><img src="https://img.shields.io/badge/Telegram-@saikokiro-0b0a1a?style=for-the-badge&logo=telegram&logoColor=c4b5fd&labelColor=1d1638" alt="Telegram @saikokiro"></a>
+</p>
+
 ### ✦ 道具 · stack
 
 <p>
@@ -32,10 +36,11 @@ ask_me:    aiogram, FastAPI, Telegram Mini Apps, deploying on a budget VPS
 | | Project | What it is | Stack |
 |---|---|---|---|
 | 🚚 | **enroute** | Cross-border delivery service: Telegram Mini App for ordering from US / China stores, staged payments, tracking, bot notifications | Go · PostgreSQL · vanilla JS · Docker · GitHub Actions → GHCR |
+| 🏋️ | [**Kachalka**](https://github.com/saikoxdd/kachalka) | Workout tracker for a 3-week strength cycle with auto progression: iOS app with Live Activity on the Dynamic Island, the same UI as a Telegram Mini App and an installable PWA | Swift · SwiftUI · WidgetKit · WKWebView · JS |
 | ⌨️ | [**TypeSpeed**](https://github.com/saikoxdd/typespeed) | Native macOS typing-speed test in the spirit of Monkeytype: Russian word pools, profile with stats | Swift · WKWebView · JS |
 | 📚 | **Tutoring platform** | Lesson booking, homework exchange, role-based access for tutor and students | FastAPI · PostgreSQL · React · Docker Compose |
 | 🏄 | **Surf school bot** | Forecast posts in a channel → private booking of boards and wetsuits by size, admin panel inside the bot | Python · aiogram · PostgreSQL |
-| 📦 | **Logistics order bot** | Order processing and tracking for a Russia - China logistics company (bachelor's thesis) | Python · aiogram · SQLAlchemy · Docker |
+| 📦 | [**LogHub bot**](https://github.com/saikoxdd/loghub-bot) | Order tracking for a Russia - China logistics service: price calculator, photo status updates, deep-link tracking, admin panel. Started as my bachelor's thesis, rewritten from scratch | Python · aiogram 3 · async SQLAlchemy · pytest · Docker |
 
 ### ✦ 統計 · stats
 
