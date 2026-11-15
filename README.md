@@ -8,14 +8,17 @@
 
 ### ✦ 自己紹介 · about
 
-Backend developer from **Saint Petersburg**
-I build **Python / FastAPI** services and **Telegram bots**, and co-build **enroute** - a cross-border delivery service with a Telegram Mini App on Go.
+I build things end to end: from the database schema to the button your customer actually taps.
+Mostly **Python** and **Go**, mostly **Telegram bots & Mini Apps**, always shipped in **Docker** with CI/CD and a real server at the end of the pipeline.
+
+Right now I'm building **enroute** - cross-border delivery where you paste a Poizon link into a Mini App and the parcel shows up at your door.
 
 ```yaml
-focus:     data model → API → bot / UI → Docker → CI/CD → production
-now:       shipping enroute (Go · PostgreSQL · Telegram Mini App)
-learning:  Go, distributed systems, Kubernetes
-ask_me:    aiogram, FastAPI, Telegram Mini Apps, deploying on a budget VPS
+ships:     bots · mini apps · APIs - from first commit to prod
+stack:     python · go · postgres · docker · github actions
+now:       enroute - cross-border delivery as a Telegram Mini App
+learning:  go internals · distributed systems · k8s
+mode:      night owl 🌙
 ```
 
 <p>

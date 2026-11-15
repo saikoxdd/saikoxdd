@@ -35,7 +35,7 @@
 <text x="70" y="98" class="mono" font-size="17" fill="#a99bd6">~/saikoxdd $ whoami</text>
 <text x="68" y="166" class="sans" font-size="68" font-weight="800" fill="url(#title)" filter="url(#glow)">saiko<tspan fill="#ff4d6d">.</tspan></text>
 <text x="70" y="208" class="sans" font-size="22" fill="#e4dcff">Backend developer · Python / Go</text>
-<text x="70" y="238" class="sans" font-size="18" fill="#b7a9e6">Telegram bots &amp; Mini Apps · Saint Petersburg<tspan class="caret" fill="#ff4d6d"> ▍</tspan></text>
+<text x="70" y="238" class="sans" font-size="18" fill="#b7a9e6">Telegram bots &amp; Mini Apps · ships to prod<tspan class="caret" fill="#ff4d6d"> ▍</tspan></text>
 <text x="1138" y="70" class="jp" font-size="30" fill="#efeaff" opacity=".85" writing-mode="tb" letter-spacing="10">サイコ</text>
 <text x="1100" y="74" class="jp" font-size="15" fill="#b7a9e6" opacity=".8" writing-mode="tb" letter-spacing="6">夜はまだ長い</text>
 <rect x="1088" y="64" width="2" height="150" fill="#ff4d6d" opacity=".7"/>
