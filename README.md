@@ -8,7 +8,7 @@
 
 ### ✦ 自己紹介 · about
 
-Backend developer from **Saint Petersburg**, Information Systems & Technologies student at **BSTU «VOENMEH»**.
+Backend developer from **Saint Petersburg**
 I build **Python / FastAPI** services and **Telegram bots**, and co-build **enroute** - a cross-border delivery service with a Telegram Mini App on Go.
 
 ```yaml
