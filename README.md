@@ -25,6 +25,12 @@ mode:      night owl 🌙
   <a href="https://t.me/saikokiro"><img src="https://img.shields.io/badge/Telegram-@saikokiro-0b0a1a?style=for-the-badge&logo=telegram&logoColor=c4b5fd&labelColor=1d1638" alt="Telegram @saikokiro"></a>
 </p>
 
+<p align="center">
+  <img src="./assets/terminal.svg" width="560" alt="terminal: whoami, stack, enroute deploy --prod, sleep: command not found">
+</p>
+
+<p align="center"><img src="./assets/divider.svg" width="100%" alt=""></p>
+
 ### ✦ 道具 · stack
 
 <p>
@@ -33,6 +39,8 @@ mode:      night owl 🌙
 <p>
   <img src="https://skillicons.dev/icons?i=js,html,css,react,swift,c,git,bash,vscode&theme=dark" alt="frontend and tools">
 </p>
+
+<p align="center"><img src="./assets/divider.svg" width="100%" alt=""></p>
 
 ### ✦ 作品 · projects
 
@@ -45,16 +53,18 @@ mode:      night owl 🌙
 | 🏄 | **Surf school bot** | Forecast posts in a channel → private booking of boards and wetsuits by size, admin panel inside the bot | Python · aiogram · PostgreSQL |
 | 📦 | [**LogHub bot**](https://github.com/saikoxdd/loghub-bot) | Order tracking for a Russia - China logistics service: price calculator, photo status updates, deep-link tracking, admin panel. Started as my bachelor's thesis, rewritten from scratch | Python · aiogram 3 · async SQLAlchemy · pytest · Docker |
 
+<p align="center"><img src="./assets/divider.svg" width="100%" alt=""></p>
+
 ### ✦ 統計 · stats
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saikoxdd/saikoxdd/output/snake.svg" alt="contribution snake" width="100%">
-</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=saikoxdd&hide_border=true&background=0B0A1A&ring=FF4D6D&fire=FF4D6D&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=E4DCFF&sideNums=E4DCFF&dates=8B7FB8&stroke=3B2F63" alt="streak">
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saikoxdd&style=flat-square&color=8b6fd1&label=visitors" alt="visitors">
-  <br><sub>🌙 夜はまだ長い</sub>
+</p>
+
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="night rooftop with a cat watching shooting stars - see you after midnight">
 </p>
